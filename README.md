@@ -38,6 +38,6 @@
 
 ---
 
--   **Credits :**
+-   **CREDITS :**
 
     -   **Author : [David Gómez](https://github.com/DavidGomezToca)**
