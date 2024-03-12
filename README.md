@@ -2,13 +2,13 @@
 
 ![THUMBNAIL](resources/img/Thumbnail.png)
 
--   **Description :**
+-   **DESCRIPTION :**
 
     Visual Stagram is a cutting-edge social networking platform tailored specifically for software developers. Designed with the developer community in mind, Visual Stagram provides a vibrant space for programmers to connect, share insights, and collaborate on projects. With intuitive user interfaces and robust features, developers can effortlessly showcase their coding projects, exchange ideas, and seek feedback from peers. Whether you're a seasoned professional or just starting your coding journey, Visual Stagram offers a dynamic environment to network, learn, and grow as a developer. Join Visual Stagram today and unlock a world of opportunities to connect with like-minded individuals and advance your coding skills.
 
 ---
 
--   **Installation Requirements :**
+-   **INSTALLATION REQUIREMENTS :**
 
     -   **Composer**
     -   **Node.js**
@@ -17,7 +17,7 @@
 
 ---
 
--   **Installation Instructions :**
+-   **INSTALLATION INSTRUCTIONS :**
 
     **1. composer install `visual-stagram`**<br>
     **2. npm install `visual-stagram`**<br>
@@ -28,8 +28,9 @@
 
 ---
 
--   **Stack :**
+-   **STACK :**
 
+    -   **Visual Stagram** : `1.0.1`
     -   **Vite** : `4.0.0`
     -   **Laravel** : `10.10.0`
     -   **TailwindCSS** : `3.3.5`
